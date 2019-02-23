@@ -3,7 +3,7 @@
 
 ## 요구사항
 * [Python 3.6+](https://www.python.org/)
-* [acbpy (Destrapier)](https://github.com/Destrapier/acbpy)
+* [acbpy (CrescentApricot)](https://github.com/CrescentApricot/acbpy)
 
 ## 사용법
 * 작업하려는 원본 *.acb.bytes 파일 백업

@@ -22,5 +22,5 @@ if len(sys.argv) > 0:
                 for hca in hcaList:
                     data = data.replace(hca, hca[:96] + PRESET * int(len(hca) / len(PRESET)))
 
-                f.seek()
+                f.seek(0)
                 f.write(data)
