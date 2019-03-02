@@ -8,8 +8,13 @@
 보이스 제거 패치를 원하는 인형의 파일을 다운로드 후 알맞은 경로에 덮어씌워주시면 됩니다.
   
 ## 다운로드
-* [웰로드](https://github.com/KOZ39/BQM-/raw/master/Welrod.acb.bytes)
-* [PSG-1](https://github.com/KOZ39/BQM-/raw/master/PSG1.acb.bytes)
+* 침묵
+	* [브렌](https://github.com/KOZ39/BQM-/raw/master/acb/Silence/BrenMK.acb.bytes)
+	* [웰로드](https://github.com/KOZ39/BQM-/raw/master/acb/Silence/Welrod.acb.bytes)
+	* [L85A1](https://github.com/KOZ39/BQM-/raw/master/acb/Silence/L85A1.acb.bytes)
+	* [PSG-1](https://github.com/KOZ39/BQM-/raw/master/acb/Silence/PSG1.acb.bytes)
+* 개조
+	* [웰로드→브렌](https://github.com/KOZ39/BQM-/raw/master/acb/Mod/Welrod.acb.bytes)
 
 ## 서버 별 경로
 > 클라이언트 버전 2.0300부터는 /New 폴더가 존재하니 해당 폴더에 덮어씌워주시면 됩니다.
