@@ -13,12 +13,12 @@
 * [SonicAudioTools (blueskythlikesclouds)](https://github.com/blueskythlikesclouds/SonicAudioTools)
 
 ## 사용법
-**bqm**
+**bqm** (침묵)
 > 작업하는 *.acb.bytes를 덮어씌우므로 백업을 권장합니다.
 ```
 * bqm.py 또는 bqm.exe에 *.acb.bytes 드래그 앤드 드롭
 ```
-**w2b**
+**w2b** (웰로드→브렌)
 > Welrod (1).acb.bytes이 결과물이므로, 덮어씌울때는 Welrod.acb.bytes로 파일명 변경이 필요합니다.
 ```
 * BrenMK.acb.bytes, Welrod.acb.bytes, SonicAudioTools(w2b.py 사용시에만 해당) 준비
