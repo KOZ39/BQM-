@@ -29,14 +29,14 @@
 
 > 클라이언트 버전 2.0300부터는 /New 폴더가 존재하니 해당 폴더에 덮어씌워주시면 됩니다.
 
-|서버|경로|
-|----|----|
-|운영사|내부 저장소/Android/data/com.digitalsky.girlsfrontline.cn/files/Android/New|
-|비리비리|내부 저장소/Android/data/com.digitalsky.girlsfrontline.cn.bili/files/Android/New|
-|대만|내부 저장소/Android/data/tw.txwy.and.snqx/files/Android/New|
-|한국|내부 저장소/Android/data/kr.txwy.and.snqx/files/Android/New|
-|글로벌|내부 저장소/Android/data/com.sunborn.girlsfrontline.en/files/Android|
-|일본|내부저장소/Android/data/com.sunborn.girlsfrontline.jp/files/Android|
+| 서버 | 경로 |
+| ---- | ---- |
+| 운영사 | 내부 저장소/Android/data/com.digitalsky.girlsfrontline.cn/files/Android/New |
+| 비리비리 | 내부 저장소/Android/data/com.digitalsky.girlsfrontline.cn.bili/files/Android/New |
+| 대만 | 내부 저장소/Android/data/tw.txwy.and.snqx/files/Android/New |
+| 한국 | 내부 저장소/Android/data/kr.txwy.and.snqx/files/Android/New |
+| 글로벌 | 내부 저장소/Android/data/com.sunborn.girlsfrontline.en/files/Android |
+| 일본 | 내부저장소/Android/data/com.sunborn.girlsfrontline.jp/files/Android |
 
 ## Archive?
 기본 branch 변경으로 PR을 방지하기 위해 했습니다.  
@@ -44,6 +44,10 @@
 * Email: [koz39c@gmail.com](mailto:koz39c@gmail.com)
 * Discord: KOZ39#2590
 * Telegram: [KOZ39](https://t.me/koz39)
+
+
+## WIP
+[RESEARCH.md](https://github.com/KOZ39/BQM-/blob/pre-release/RESEARCH.md)
 
 ## License
 [MIT](https://github.com/KOZ39/BQM-/blob/master/LICENSE)
