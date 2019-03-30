@@ -14,22 +14,24 @@
 	* [L85A1](https://github.com/KOZ39/BQM-/raw/master/acb/Silence/L85A1.acb.bytes)
 	* [PSG-1](https://github.com/KOZ39/BQM-/raw/master/acb/Silence/PSG1.acb.bytes)
 * 개조
+	* [(구)스텐](https://github.com/KOZ39/BQM-/raw/master/acb/Mod/StenMK2.acb.bytes)
 	* [웰로드→브렌](https://github.com/KOZ39/BQM-/raw/master/acb/Mod/Welrod.acb.bytes)
+* CBT
+	* [C96](https://github.com/KOZ39/BQM-/raw/master/acb/CBT/C96.acb.bytes)
+	* [MP5](https://github.com/KOZ39/BQM-/raw/master/acb/CBT/MP5.acb.bytes)
+	* [SV-98](https://github.com/KOZ39/BQM-/raw/master/acb/CBT/SV98.acb.bytes)
 
 ## 서버 별 경로
 > 클라이언트 버전 2.0300부터는 /New 폴더가 존재하니 해당 폴더에 덮어씌워주시면 됩니다.
-* 운영사
-	* 내부 저장소/Android/data/com.digitalsky.girlsfrontline.cn/files/Android/New
-* 비리비리
-	* 내부 저장소/Android/data/com.digitalsky.girlsfrontline.cn.bili/files/Android/New
-* 대만
-	* 내부 저장소/Android/data/tw.txwy.and.snqx/files/Android/New
-* 한국
-	* 내부 저장소/Android/data/kr.txwy.and.snqx/files/Android/New
-* 글로벌
-	* 내부 저장소/Android/data/com.sunborn.girlsfrontline.en/files/Android
-* 일본
-	* 내부저장소/Android/data/com.sunborn.girlsfrontline.jp/files/Android
+
+| 서버 | 경로 |
+| --- | --- |
+| 운영사 | 내부 저장소/Android/data/com.digitalsky.girlsfrontline.cn/files/Android/New |
+| 비리비리 | 내부 저장소/Android/data/com.digitalsky.girlsfrontline.cn.bili/files/Android/New |
+| ~~대만~~ | ~~내부 저장소/Android/data/tw.txwy.and.snqx/files/Android/New~~ |
+| ~~한국~~ | ~~내부 저장소/Android/data/kr.txwy.and.snqx/files/Android/New~~ |
+| ~~글로벌~~ | ~~내부 저장소/Android/data/com.sunborn.girlsfrontline.en/files/Android~~ |
+| ~~일본~~ | ~~내부저장소/Android/data/com.sunborn.girlsfrontline.jp/files/Android~~ |
 
 ## License
 [MIT](https://github.com/KOZ39/BQM-/blob/master/LICENSE)
