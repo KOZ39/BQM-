@@ -31,7 +31,7 @@
 | ~~대만~~ | ~~내부 저장소/Android/data/tw.txwy.and.snqx/files/Android/New~~ |
 | ~~한국~~ | ~~내부 저장소/Android/data/kr.txwy.and.snqx/files/Android/New~~ |
 | ~~글로벌~~ | ~~내부 저장소/Android/data/com.sunborn.girlsfrontline.en/files/Android~~ |
-| ~~일본~~ | ~~내부저장소/Android/data/com.sunborn.girlsfrontline.jp/files/Android~~ |
+| ~~일본~~ | ~~내부저장소/Android/data/com.sunborn.girlsfrontline.jp/files/Android/New~~ |
 
 ## License
 [MIT](https://github.com/KOZ39/BQM-/blob/master/LICENSE)
